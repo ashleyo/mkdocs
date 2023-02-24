@@ -1,0 +1,11 @@
+site_name: Steve
+
+nav:
+  - index.md
+  - about.md
+  - Scan: https://Scan.co.uk
+  - Steve: dev/steve.md
+
+
+markdown_extensions:
+    extra:
